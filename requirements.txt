@@ -34,7 +34,7 @@ moviepy
 numba
 pymeshlab
 pymeshfix
-genesis-world
+git+https://github.com/Genesis-Embodied-AI/Genesis.git@main
 torch
 PyOpenGL
 PyOpenGL_accelerate
